@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InventariosAmway</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_Have_Account">¿No tienes cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirmPassword">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">Steven Yehin Patiño</string>
+    <string name="timecard_card"> 4 dias</string>
+    <string name="firstword_card">Hace</string>
+    <string name="likenumbercard_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_deatil">Me Gusta</string>
+    <string name="titleimagedeatil">\"Productos Amway\"</string>
+    <string name="lorem">\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec ultricies urna, at aliquam neque. Donec sed tortor lacinia, commodo ipsum et, posuere nibh. Praesent non pulvinar ipsum, id malesuada mi. Praesent eu rutrum ligula. Cras in ipsum ultricies sapien rhoncus feugiat. Curabitur ut suscipit diam, eu imperdiet lacus. Phasellus tincidunt ultrices viverra.  Pellentesque vulputate est felis, sit amet varius magna pretium non. Vestibulum quis augue enim. In imperdiet tempor augue. Phasellus commodo lectus vitae orci consequat, eget finibus ligula vulputate. Nulla a risus aliquam, pharetra orci venenatis, maximus tellus. Nullam rhoncus mauris eu eros aliquam scelerisque. Morbi ut nisl hendrerit lacus faucibus mollis eget et nisi. Ut dolor velit, sodales a porttitor quis, elementum ut nunc. Nunc efficitur non odio sed semper. Praesent consequat diam vel sodales molestie. In efficitur dolor augue, vitae accumsan metus porttitor non. Nullam non gravida turpis.  Morbi elementum finibus tortor at vestibulum. Etiam sagittis aliquam arcu sit amet mollis. Donec feugiat ipsum vitae nulla luctus venenatis. Nam sollicitudin efficitur dui a volutpat. Sed eleifend sed lectus vel rutrum. Ut tempus arcu vel justo porta aliquam. Suspendisse sed leo libero. In tincidunt pellentesque malesuada. Morbi eget magna nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras scelerisque mauris vel sagittis viverra. In orci elit, dapibus eu ullamcorper vitae, scelerisque nec nulla. Aenean ullamcorper sollicitudin ligula.  Nunc egestas est dolor, eu varius leo porta eget. Etiam a scelerisque eros, non condimentum est. Morbi elementum, ligula at commodo consequat, risus arcu tristique velit, quis vestibulum dolor felis vitae nisi. Sed a lectus odio. In eu euismod lorem. Nam maximus porta nisl sit amet aliquet. Curabitur malesuada interdum enim, in fermentum purus gravida et. Vivamus non eros neque. Nunc suscipit dui nec nunc congue, vitae maximus lectus faucibus.  Maecenas eu ultrices augue, in sagittis lorem. Praesent eget metus at sapien posuere euismod non vitae risus. Vivamus vel aliquet urna, nec suscipit tellus. Suspendisse potenti. Integer ac urna eget augue vestibulum semper sit amet id urna. Cras vehicula molestie porta. Nulla eu ipsum sed ligula maximus sodales tincidunt quis ligula. Cras finibus ultrices scelerisque. Nulla facilisi. Etiam pellentesque vehicula mattis.\"</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+
+</resources>
